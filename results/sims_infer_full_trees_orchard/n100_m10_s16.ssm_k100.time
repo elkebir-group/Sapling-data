@@ -1,0 +1,23 @@
+	Command being timed: "python ../../extern/orchard/bin/orchard -k 100 -n 1 -p input/n100_m10_s16.ssm_mutations.ssm input/n100_m10_s16.ssm_params.json n100_m10_s16.ssm_k100.npz"
+	User time (seconds): 988.38
+	System time (seconds): 174.85
+	Percent of CPU this job got: 185%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:27.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 160816
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 42616
+	Voluntary context switches: 30554664
+	Involuntary context switches: 1397814
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 30588905
+	Socket messages received: 61177808
+	Signals delivered: 0
+	Page size (bytes): 16384
+	Exit status: 0

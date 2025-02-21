@@ -1,0 +1,1 @@
+for f in ../../data/sims/n*.tsv;do for b in {1,10,50,100};do echo gtime -v -o $(basename $f .tsv)_b$b.time python \${sapling} --tau -1 --ell -1 --rho 0.9 --beam_width $b -f $f -o $(basename $f .tsv)_b$b.tsv;done;done > jobs.sh

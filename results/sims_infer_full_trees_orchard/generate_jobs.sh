@@ -1,0 +1,1 @@
+for f in input/*.ssm;do for k in {1,10,50,100};do echo gtime -v -o $(basename $f _mutations.ssm)_k$k.time python  ../../extern/orchard/bin/orchard -k $k -n 1 -p $f input/$(basename $f _mutations.ssm)_params.json $(basename $f _mutations.ssm)_k$k.npz;done;done
