@@ -1,0 +1,35 @@
+[2025-12-03 11:14:07.858] [fastbe] [info] Performing beam search to find tree(s)...
+[2025-12-03 11:14:07.859] [fastbe] [info] Adding clone 0 (1/8) to the partially constructed trees
+[2025-12-03 11:14:07.859] [fastbe] [info] Adding clone 1 (2/8) to the partially constructed trees
+[2025-12-03 11:14:07.859] [fastbe] [info] Adding clone 3 (3/8) to the partially constructed trees
+[2025-12-03 11:14:07.859] [fastbe] [info] Adding clone 4 (4/8) to the partially constructed trees
+[2025-12-03 11:14:07.859] [fastbe] [info] Adding clone 7 (5/8) to the partially constructed trees
+[2025-12-03 11:14:07.862] [fastbe] [info] Adding clone 5 (6/8) to the partially constructed trees
+[2025-12-03 11:14:07.876] [fastbe] [info] Adding clone 6 (7/8) to the partially constructed trees
+[2025-12-03 11:14:07.890] [fastbe] [info] Adding clone 2 (8/8) to the partially constructed trees
+[2025-12-03 11:14:07.904] [fastbe] [info] Best tree objective is 0.016193993
+[2025-12-03 11:14:07.904] [fastbe] [info] Worst tree objective is 0.046036992
+[2025-12-03 11:14:07.904] [fastbe] [info] Objective value: 0.016193993
+	Command being timed: "fastbe search data/sims/n8_m2_s10_frequency_matrix.txt -o results/sims_infer_full_trees_fastbe/n8_m2_s10_k100 -b 100"
+	User time (seconds): 0.04
+	System time (seconds): 0.07
+	Percent of CPU this job got: 233%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3584
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 6811
+	Voluntary context switches: 0
+	Involuntary context switches: 3602
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 16384
+	Exit status: 0

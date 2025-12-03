@@ -1,0 +1,77 @@
+[2025-12-03 11:13:30.519] [fastbe] [info] Performing beam search to find tree(s)...
+[2025-12-03 11:13:30.520] [fastbe] [info] Adding clone 0 (1/50) to the partially constructed trees
+[2025-12-03 11:13:30.520] [fastbe] [info] Adding clone 37 (2/50) to the partially constructed trees
+[2025-12-03 11:13:30.520] [fastbe] [info] Adding clone 45 (3/50) to the partially constructed trees
+[2025-12-03 11:13:30.521] [fastbe] [info] Adding clone 10 (4/50) to the partially constructed trees
+[2025-12-03 11:13:30.522] [fastbe] [info] Adding clone 16 (5/50) to the partially constructed trees
+[2025-12-03 11:13:30.531] [fastbe] [info] Adding clone 2 (6/50) to the partially constructed trees
+[2025-12-03 11:13:30.559] [fastbe] [info] Adding clone 19 (7/50) to the partially constructed trees
+[2025-12-03 11:13:30.589] [fastbe] [info] Adding clone 21 (8/50) to the partially constructed trees
+[2025-12-03 11:13:30.623] [fastbe] [info] Adding clone 28 (9/50) to the partially constructed trees
+[2025-12-03 11:13:30.796] [fastbe] [info] Adding clone 43 (10/50) to the partially constructed trees
+[2025-12-03 11:13:30.846] [fastbe] [info] Adding clone 5 (11/50) to the partially constructed trees
+[2025-12-03 11:13:30.903] [fastbe] [info] Adding clone 40 (12/50) to the partially constructed trees
+[2025-12-03 11:13:30.956] [fastbe] [info] Adding clone 14 (13/50) to the partially constructed trees
+[2025-12-03 11:13:31.012] [fastbe] [info] Adding clone 22 (14/50) to the partially constructed trees
+[2025-12-03 11:13:31.072] [fastbe] [info] Adding clone 26 (15/50) to the partially constructed trees
+[2025-12-03 11:13:31.135] [fastbe] [info] Adding clone 25 (16/50) to the partially constructed trees
+[2025-12-03 11:13:31.201] [fastbe] [info] Adding clone 27 (17/50) to the partially constructed trees
+[2025-12-03 11:13:31.269] [fastbe] [info] Adding clone 31 (18/50) to the partially constructed trees
+[2025-12-03 11:13:31.344] [fastbe] [info] Adding clone 15 (19/50) to the partially constructed trees
+[2025-12-03 11:13:31.423] [fastbe] [info] Adding clone 20 (20/50) to the partially constructed trees
+[2025-12-03 11:13:31.512] [fastbe] [info] Adding clone 13 (21/50) to the partially constructed trees
+[2025-12-03 11:13:31.604] [fastbe] [info] Adding clone 8 (22/50) to the partially constructed trees
+[2025-12-03 11:13:31.700] [fastbe] [info] Adding clone 4 (23/50) to the partially constructed trees
+[2025-12-03 11:13:31.803] [fastbe] [info] Adding clone 42 (24/50) to the partially constructed trees
+[2025-12-03 11:13:31.911] [fastbe] [info] Adding clone 11 (25/50) to the partially constructed trees
+[2025-12-03 11:13:32.027] [fastbe] [info] Adding clone 46 (26/50) to the partially constructed trees
+[2025-12-03 11:13:32.144] [fastbe] [info] Adding clone 33 (27/50) to the partially constructed trees
+[2025-12-03 11:13:32.263] [fastbe] [info] Adding clone 35 (28/50) to the partially constructed trees
+[2025-12-03 11:13:32.387] [fastbe] [info] Adding clone 38 (29/50) to the partially constructed trees
+[2025-12-03 11:13:32.524] [fastbe] [info] Adding clone 9 (30/50) to the partially constructed trees
+[2025-12-03 11:13:32.667] [fastbe] [info] Adding clone 44 (31/50) to the partially constructed trees
+[2025-12-03 11:13:32.818] [fastbe] [info] Adding clone 48 (32/50) to the partially constructed trees
+[2025-12-03 11:13:32.977] [fastbe] [info] Adding clone 1 (33/50) to the partially constructed trees
+[2025-12-03 11:13:33.134] [fastbe] [info] Adding clone 3 (34/50) to the partially constructed trees
+[2025-12-03 11:13:33.304] [fastbe] [info] Adding clone 6 (35/50) to the partially constructed trees
+[2025-12-03 11:13:33.479] [fastbe] [info] Adding clone 32 (36/50) to the partially constructed trees
+[2025-12-03 11:13:33.652] [fastbe] [info] Adding clone 23 (37/50) to the partially constructed trees
+[2025-12-03 11:13:33.827] [fastbe] [info] Adding clone 47 (38/50) to the partially constructed trees
+[2025-12-03 11:13:34.002] [fastbe] [info] Adding clone 39 (39/50) to the partially constructed trees
+[2025-12-03 11:13:34.185] [fastbe] [info] Adding clone 49 (40/50) to the partially constructed trees
+[2025-12-03 11:13:34.388] [fastbe] [info] Adding clone 12 (41/50) to the partially constructed trees
+[2025-12-03 11:13:34.594] [fastbe] [info] Adding clone 36 (42/50) to the partially constructed trees
+[2025-12-03 11:13:34.828] [fastbe] [info] Adding clone 7 (43/50) to the partially constructed trees
+[2025-12-03 11:13:35.048] [fastbe] [info] Adding clone 18 (44/50) to the partially constructed trees
+[2025-12-03 11:13:35.266] [fastbe] [info] Adding clone 34 (45/50) to the partially constructed trees
+[2025-12-03 11:13:35.493] [fastbe] [info] Adding clone 41 (46/50) to the partially constructed trees
+[2025-12-03 11:13:35.725] [fastbe] [info] Adding clone 30 (47/50) to the partially constructed trees
+[2025-12-03 11:13:35.971] [fastbe] [info] Adding clone 17 (48/50) to the partially constructed trees
+[2025-12-03 11:13:36.229] [fastbe] [info] Adding clone 29 (49/50) to the partially constructed trees
+[2025-12-03 11:13:36.492] [fastbe] [info] Adding clone 24 (50/50) to the partially constructed trees
+[2025-12-03 11:13:36.773] [fastbe] [info] Best tree objective is 2.672125
+[2025-12-03 11:13:36.773] [fastbe] [info] Worst tree objective is 2.6756642
+[2025-12-03 11:13:36.775] [fastbe] [info] Objective value: 2.672125
+	Command being timed: "fastbe search data/sims/n50_m10_s6_frequency_matrix.txt -o results/sims_infer_full_trees_fastbe/n50_m10_s6_k100 -b 100"
+	User time (seconds): 40.61
+	System time (seconds): 1.05
+	Percent of CPU this job got: 665%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 18720
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 91814
+	Voluntary context switches: 0
+	Involuntary context switches: 91838
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 16384
+	Exit status: 0

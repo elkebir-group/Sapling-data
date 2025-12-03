@@ -1,0 +1,47 @@
+[2025-12-03 11:10:13.577] [fastbe] [info] Performing beam search to find tree(s)...
+[2025-12-03 11:10:13.578] [fastbe] [info] Adding clone 0 (1/20) to the partially constructed trees
+[2025-12-03 11:10:13.578] [fastbe] [info] Adding clone 11 (2/20) to the partially constructed trees
+[2025-12-03 11:10:13.578] [fastbe] [info] Adding clone 9 (3/20) to the partially constructed trees
+[2025-12-03 11:10:13.579] [fastbe] [info] Adding clone 10 (4/20) to the partially constructed trees
+[2025-12-03 11:10:13.579] [fastbe] [info] Adding clone 2 (5/20) to the partially constructed trees
+[2025-12-03 11:10:13.583] [fastbe] [info] Adding clone 13 (6/20) to the partially constructed trees
+[2025-12-03 11:10:13.596] [fastbe] [info] Adding clone 5 (7/20) to the partially constructed trees
+[2025-12-03 11:10:13.612] [fastbe] [info] Adding clone 14 (8/20) to the partially constructed trees
+[2025-12-03 11:10:13.634] [fastbe] [info] Adding clone 16 (9/20) to the partially constructed trees
+[2025-12-03 11:10:13.664] [fastbe] [info] Adding clone 12 (10/20) to the partially constructed trees
+[2025-12-03 11:10:13.681] [fastbe] [info] Adding clone 3 (11/20) to the partially constructed trees
+[2025-12-03 11:10:13.700] [fastbe] [info] Adding clone 19 (12/20) to the partially constructed trees
+[2025-12-03 11:10:13.721] [fastbe] [info] Adding clone 4 (13/20) to the partially constructed trees
+[2025-12-03 11:10:13.744] [fastbe] [info] Adding clone 1 (14/20) to the partially constructed trees
+[2025-12-03 11:10:13.769] [fastbe] [info] Adding clone 6 (15/20) to the partially constructed trees
+[2025-12-03 11:10:13.797] [fastbe] [info] Adding clone 18 (16/20) to the partially constructed trees
+[2025-12-03 11:10:13.826] [fastbe] [info] Adding clone 15 (17/20) to the partially constructed trees
+[2025-12-03 11:10:13.857] [fastbe] [info] Adding clone 17 (18/20) to the partially constructed trees
+[2025-12-03 11:10:13.893] [fastbe] [info] Adding clone 8 (19/20) to the partially constructed trees
+[2025-12-03 11:10:13.932] [fastbe] [info] Adding clone 7 (20/20) to the partially constructed trees
+[2025-12-03 11:10:13.975] [fastbe] [info] Best tree objective is 0.9554901
+[2025-12-03 11:10:13.975] [fastbe] [info] Worst tree objective is 0.9949071
+[2025-12-03 11:10:13.975] [fastbe] [info] Objective value: 0.9554901
+	Command being timed: "fastbe search data/sims/n20_m10_s13_frequency_matrix.txt -o results/sims_infer_full_trees_fastbe/n20_m10_s13_k50 -b 50"
+	User time (seconds): 2.32
+	System time (seconds): 0.16
+	Percent of CPU this job got: 613%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 5152
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 15926
+	Voluntary context switches: 0
+	Involuntary context switches: 12130
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 16384
+	Exit status: 0
