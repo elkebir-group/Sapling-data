@@ -14,7 +14,7 @@ fastppm-data/
 │   ├── sims_infer_full_trees_fastbe/       # Full tree benchmarking: fastBE results
 │   ├── sims_infer_full_trees_fastppm_small_expand/ # Full tree benchmarking: Sapling (Small Expand heuristic)
 │   ├── sims_tau_fastppm_small_expand/      # Backbone Inference: fastPPM + Small Expand
-│   ├── sims_tau_fastppm_big_expand/        # Backbone Inference: fastppm + Big Expand mode
+│   ├── sims_tau_fastppm_big_expand/        # Backbone Inference: fastppm + Big Expand
 │   ├── sims_tau_cvxopt_small_expand/       # Backbone Inference: CVXOPT + Small Expand
 │   ├── sims_tau_n8_sapling/                # Backbone Inference: Sapling for n=8 simulations
 │   ├── sims_tau_n8_ground_truth/           # Backbone Inference: Ground truth for n=8 simulations
