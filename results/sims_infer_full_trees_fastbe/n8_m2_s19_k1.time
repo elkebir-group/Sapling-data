@@ -1,20 +1,20 @@
-[2025-12-03 11:14:10.076] [fastbe] [info] Performing beam search to find tree(s)...
-[2025-12-03 11:14:10.077] [fastbe] [info] Adding clone 0 (1/8) to the partially constructed trees
-[2025-12-03 11:14:10.077] [fastbe] [info] Adding clone 3 (2/8) to the partially constructed trees
-[2025-12-03 11:14:10.077] [fastbe] [info] Adding clone 4 (3/8) to the partially constructed trees
-[2025-12-03 11:14:10.077] [fastbe] [info] Adding clone 2 (4/8) to the partially constructed trees
-[2025-12-03 11:14:10.077] [fastbe] [info] Adding clone 7 (5/8) to the partially constructed trees
-[2025-12-03 11:14:10.077] [fastbe] [info] Adding clone 6 (6/8) to the partially constructed trees
-[2025-12-03 11:14:10.077] [fastbe] [info] Adding clone 1 (7/8) to the partially constructed trees
-[2025-12-03 11:14:10.078] [fastbe] [info] Adding clone 5 (8/8) to the partially constructed trees
-[2025-12-03 11:14:10.078] [fastbe] [info] Best tree objective is 0.008800998
-[2025-12-03 11:14:10.078] [fastbe] [info] Worst tree objective is 0.008800998
-[2025-12-03 11:14:10.078] [fastbe] [info] Objective value: 0.008800998
+[2025-12-04 10:14:49.416] [fastbe] [info] Performing beam search to find tree(s)...
+[2025-12-04 10:14:49.417] [fastbe] [info] Adding clone 0 (1/8) to the partially constructed trees
+[2025-12-04 10:14:49.417] [fastbe] [info] Adding clone 3 (2/8) to the partially constructed trees
+[2025-12-04 10:14:49.417] [fastbe] [info] Adding clone 4 (3/8) to the partially constructed trees
+[2025-12-04 10:14:49.417] [fastbe] [info] Adding clone 2 (4/8) to the partially constructed trees
+[2025-12-04 10:14:49.417] [fastbe] [info] Adding clone 7 (5/8) to the partially constructed trees
+[2025-12-04 10:14:49.418] [fastbe] [info] Adding clone 6 (6/8) to the partially constructed trees
+[2025-12-04 10:14:49.418] [fastbe] [info] Adding clone 1 (7/8) to the partially constructed trees
+[2025-12-04 10:14:49.418] [fastbe] [info] Adding clone 5 (8/8) to the partially constructed trees
+[2025-12-04 10:14:49.418] [fastbe] [info] Best tree objective is 0.008800998
+[2025-12-04 10:14:49.418] [fastbe] [info] Worst tree objective is 0.008800998
+[2025-12-04 10:14:49.418] [fastbe] [info] Objective value of clone tree 0: 0.008800998
 	Command being timed: "fastbe search data/sims/n8_m2_s19_frequency_matrix.txt -o results/sims_infer_full_trees_fastbe/n8_m2_s19_k1 -b 1"
 	User time (seconds): 0.00
 	System time (seconds): 0.00
-	Percent of CPU this job got: 60%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.01
+	Percent of CPU this job got: 85%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
@@ -22,9 +22,9 @@
 	Maximum resident set size (kbytes): 2448
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 1
-	Minor (reclaiming a frame) page faults: 456
-	Voluntary context switches: 2
-	Involuntary context switches: 85
+	Minor (reclaiming a frame) page faults: 455
+	Voluntary context switches: 1
+	Involuntary context switches: 86
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 0

@@ -1,42 +1,141 @@
-[2025-12-03 11:10:34.746] [fastbe] [info] Performing beam search to find tree(s)...
-[2025-12-03 11:10:34.747] [fastbe] [info] Adding clone 0 (1/20) to the partially constructed trees
-[2025-12-03 11:10:34.747] [fastbe] [info] Adding clone 12 (2/20) to the partially constructed trees
-[2025-12-03 11:10:34.747] [fastbe] [info] Adding clone 7 (3/20) to the partially constructed trees
-[2025-12-03 11:10:34.748] [fastbe] [info] Adding clone 11 (4/20) to the partially constructed trees
-[2025-12-03 11:10:34.748] [fastbe] [info] Adding clone 8 (5/20) to the partially constructed trees
-[2025-12-03 11:10:34.754] [fastbe] [info] Adding clone 3 (6/20) to the partially constructed trees
-[2025-12-03 11:10:34.775] [fastbe] [info] Adding clone 6 (7/20) to the partially constructed trees
-[2025-12-03 11:10:34.799] [fastbe] [info] Adding clone 10 (8/20) to the partially constructed trees
-[2025-12-03 11:10:34.828] [fastbe] [info] Adding clone 16 (9/20) to the partially constructed trees
-[2025-12-03 11:10:34.858] [fastbe] [info] Adding clone 14 (10/20) to the partially constructed trees
-[2025-12-03 11:10:34.894] [fastbe] [info] Adding clone 4 (11/20) to the partially constructed trees
-[2025-12-03 11:10:34.935] [fastbe] [info] Adding clone 13 (12/20) to the partially constructed trees
-[2025-12-03 11:10:34.985] [fastbe] [info] Adding clone 9 (13/20) to the partially constructed trees
-[2025-12-03 11:10:35.041] [fastbe] [info] Adding clone 15 (14/20) to the partially constructed trees
-[2025-12-03 11:10:35.106] [fastbe] [info] Adding clone 17 (15/20) to the partially constructed trees
-[2025-12-03 11:10:35.183] [fastbe] [info] Adding clone 5 (16/20) to the partially constructed trees
-[2025-12-03 11:10:35.266] [fastbe] [info] Adding clone 2 (17/20) to the partially constructed trees
-[2025-12-03 11:10:35.355] [fastbe] [info] Adding clone 18 (18/20) to the partially constructed trees
-[2025-12-03 11:10:35.456] [fastbe] [info] Adding clone 19 (19/20) to the partially constructed trees
-[2025-12-03 11:10:35.556] [fastbe] [info] Adding clone 1 (20/20) to the partially constructed trees
-[2025-12-03 11:10:35.659] [fastbe] [info] Best tree objective is 0.73713696
-[2025-12-03 11:10:35.659] [fastbe] [info] Worst tree objective is 0.761405
-[2025-12-03 11:10:35.659] [fastbe] [info] Objective value: 0.73713696
+[2025-12-04 10:11:08.114] [fastbe] [info] Performing beam search to find tree(s)...
+[2025-12-04 10:11:08.114] [fastbe] [info] Adding clone 0 (1/20) to the partially constructed trees
+[2025-12-04 10:11:08.115] [fastbe] [info] Adding clone 12 (2/20) to the partially constructed trees
+[2025-12-04 10:11:08.115] [fastbe] [info] Adding clone 7 (3/20) to the partially constructed trees
+[2025-12-04 10:11:08.115] [fastbe] [info] Adding clone 11 (4/20) to the partially constructed trees
+[2025-12-04 10:11:08.116] [fastbe] [info] Adding clone 8 (5/20) to the partially constructed trees
+[2025-12-04 10:11:08.121] [fastbe] [info] Adding clone 3 (6/20) to the partially constructed trees
+[2025-12-04 10:11:08.152] [fastbe] [info] Adding clone 6 (7/20) to the partially constructed trees
+[2025-12-04 10:11:08.188] [fastbe] [info] Adding clone 10 (8/20) to the partially constructed trees
+[2025-12-04 10:11:08.233] [fastbe] [info] Adding clone 16 (9/20) to the partially constructed trees
+[2025-12-04 10:11:08.284] [fastbe] [info] Adding clone 14 (10/20) to the partially constructed trees
+[2025-12-04 10:11:08.345] [fastbe] [info] Adding clone 4 (11/20) to the partially constructed trees
+[2025-12-04 10:11:08.414] [fastbe] [info] Adding clone 13 (12/20) to the partially constructed trees
+[2025-12-04 10:11:08.489] [fastbe] [info] Adding clone 9 (13/20) to the partially constructed trees
+[2025-12-04 10:11:08.571] [fastbe] [info] Adding clone 15 (14/20) to the partially constructed trees
+[2025-12-04 10:11:08.661] [fastbe] [info] Adding clone 17 (15/20) to the partially constructed trees
+[2025-12-04 10:11:08.762] [fastbe] [info] Adding clone 5 (16/20) to the partially constructed trees
+[2025-12-04 10:11:08.871] [fastbe] [info] Adding clone 2 (17/20) to the partially constructed trees
+[2025-12-04 10:11:08.989] [fastbe] [info] Adding clone 18 (18/20) to the partially constructed trees
+[2025-12-04 10:11:09.113] [fastbe] [info] Adding clone 19 (19/20) to the partially constructed trees
+[2025-12-04 10:11:09.240] [fastbe] [info] Adding clone 1 (20/20) to the partially constructed trees
+[2025-12-04 10:11:09.371] [fastbe] [info] Best tree objective is 0.73713696
+[2025-12-04 10:11:09.371] [fastbe] [info] Worst tree objective is 0.761405
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 0: 0.73713696
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 1: 0.73743093
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 2: 0.73894995
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 3: 0.74024993
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 4: 0.74051595
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 5: 0.74209696
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 6: 0.7421499
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 7: 0.7423289
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 8: 0.74361193
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 9: 0.7444139
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 10: 0.7449749
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 11: 0.74524796
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 12: 0.7454249
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 13: 0.74551195
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 14: 0.74554193
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 15: 0.74582994
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 16: 0.74619395
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 17: 0.74644196
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 18: 0.74708396
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 19: 0.74732494
+[2025-12-04 10:11:09.372] [fastbe] [info] Objective value of clone tree 20: 0.7473779
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 21: 0.747643
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 22: 0.7483369
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 23: 0.7484499
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 24: 0.748514
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 25: 0.748514
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 26: 0.74862695
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 27: 0.74980396
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 28: 0.74990994
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 29: 0.7501499
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 30: 0.7502629
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 31: 0.75039595
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 32: 0.7504629
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 33: 0.750525
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 34: 0.75059795
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 35: 0.7507119
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 36: 0.75072294
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 37: 0.75081897
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 38: 0.7510749
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 39: 0.75117093
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 40: 0.75161695
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 41: 0.75162697
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 42: 0.75162697
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 43: 0.7518099
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 44: 0.75233793
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 45: 0.7525479
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 46: 0.75257295
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 47: 0.75257295
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 48: 0.75283396
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 49: 0.7528879
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 50: 0.7529839
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 51: 0.7531669
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 52: 0.7531769
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 53: 0.75327194
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 54: 0.75344896
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 55: 0.75347394
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 56: 0.75347394
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 57: 0.75351995
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 58: 0.7535269
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 59: 0.7535269
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 60: 0.75355893
+[2025-12-04 10:11:09.373] [fastbe] [info] Objective value of clone tree 61: 0.75362295
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 62: 0.75375795
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 63: 0.7539039
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 64: 0.75394094
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 65: 0.754146
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 66: 0.75430495
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 67: 0.75443393
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 68: 0.75489795
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 69: 0.7550289
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 70: 0.755167
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 71: 0.7552619
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 72: 0.75526994
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 73: 0.755777
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 74: 0.7562469
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 75: 0.7568419
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 76: 0.756913
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 77: 0.75698
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 78: 0.757207
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 79: 0.75720704
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 80: 0.757728
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 81: 0.7578329
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 82: 0.7578439
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 83: 0.7583969
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 84: 0.75872594
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 85: 0.75912195
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 86: 0.759218
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 87: 0.7596459
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 88: 0.7596569
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 89: 0.7598269
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 90: 0.75988394
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 91: 0.7600259
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 92: 0.7601789
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 93: 0.76093495
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 94: 0.7609379
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 95: 0.76103103
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 96: 0.7611959
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 97: 0.761233
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 98: 0.7612779
+[2025-12-04 10:11:09.374] [fastbe] [info] Objective value of clone tree 99: 0.761405
 	Command being timed: "fastbe search data/sims/n20_m10_s7_frequency_matrix.txt -o results/sims_infer_full_trees_fastbe/n20_m10_s7_k100 -b 100"
-	User time (seconds): 5.75
-	System time (seconds): 0.33
-	Percent of CPU this job got: 660%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.92
+	User time (seconds): 7.83
+	System time (seconds): 0.34
+	Percent of CPU this job got: 646%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.26
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 7456
+	Maximum resident set size (kbytes): 7680
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 1
-	Minor (reclaiming a frame) page faults: 31077
+	Minor (reclaiming a frame) page faults: 31081
 	Voluntary context switches: 0
-	Involuntary context switches: 27678
+	Involuntary context switches: 27309
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 0

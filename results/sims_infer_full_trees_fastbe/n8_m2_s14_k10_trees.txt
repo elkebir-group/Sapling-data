@@ -1,0 +1,90 @@
+# clone tree 0 objective: 0.046653
+0 5 4 
+4 7 6 2 
+2 3 
+6 1 
+5 
+3 
+1 
+7 
+# clone tree 1 objective: 0.046653
+0 5 4 
+4 6 2 
+2 3 
+6 1 
+5 7 
+3 
+1 
+7 
+# clone tree 2 objective: 0.046653
+0 5 4 
+4 6 2 
+2 3 
+6 1 
+5 
+3 7 
+1 
+7 
+# clone tree 3 objective: 0.046653
+0 5 4 
+4 6 2 
+2 3 
+6 1 
+5 
+3 
+1 7 
+7 
+# clone tree 4 objective: 0.05507
+0 5 4 
+4 6 2 
+2 7 1 
+6 
+5 3 
+3 
+1 
+7 
+# clone tree 5 objective: 0.05507
+0 5 4 
+4 6 2 
+2 1 
+6 
+5 3 
+3 
+1 7 
+7 
+# clone tree 6 objective: 0.05507
+0 5 4 
+4 6 2 
+2 1 
+6 
+5 3 
+3 7 
+1 
+7 
+# clone tree 7 objective: 0.05507
+0 5 4 
+4 6 2 
+2 1 
+6 7 
+5 3 
+3 
+1 
+7 
+# clone tree 8 objective: 0.05507
+0 5 4 
+4 7 6 2 
+2 1 
+6 
+5 3 
+3 
+1 
+7 
+# clone tree 9 objective: 0.055545
+0 4 
+4 6 2 
+2 3 
+6 1 
+5 
+3 5 
+1 7 
+7 

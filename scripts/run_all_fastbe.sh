@@ -35,12 +35,12 @@ for freq in data/sims/*_frequency_matrix.txt; do
         #
         # 2) Run fastppm-cli
         #
-        fastppm-cli \
-            --tree "${prefix}_tree.txt" \
-            --variant "$variant" \
-            --total "$total" \
-            -o "${prefix}_inferred_frequencies.json" \
-            -f verbose \
-            -l binomial
+        # /Users/schmidt73/Desktop/fastppm/build/src/fastppm-cli \
+        #     --tree "${prefix}_tree.txt" \
+        #     --variant "$variant" \
+        #     --total "$total" \
+        #     -o "${prefix}_inferred_frequencies.json" \
+        #     -f verbose \
+        #     -l binomial
     done
 done

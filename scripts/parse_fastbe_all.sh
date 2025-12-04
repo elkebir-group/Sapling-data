@@ -13,12 +13,11 @@ for variant in data/sims/*_variant_matrix.txt; do
     total="data/sims/${base}_total_matrix.txt"
 
     for k in "${K_VALUES[@]}"; do
-        tree="${RESULT_DIR}/${base}_k${k}_tree.txt"
-        freq_json="${RESULT_DIR}/${base}_k${k}_inferred_frequencies.json"
+        tree="${RESULT_DIR}/${base}_k${k}_trees.txt"
         out_tsv="${RESULT_DIR}/${base}_k${k}.tsv"
 
-        if [[ ! -f "$tree" || ! -f "$freq_json" ]]; then
-            echo "Skipping $base k=${k} (missing tree or inferred frequencies)" >&2
+        if [[ ! -f "$tree" ]]; then
+            echo "Skipping $base k=${k} (missing tree)" >&2
             continue
         fi
 
@@ -26,9 +25,8 @@ for variant in data/sims/*_variant_matrix.txt; do
 
         python scripts/parse_fastbe_output.py \
             "$tree" \
-            "$freq_json" \
             "$variant" \
             "$total" \
-            > "$out_tsv"
+            > "$out_tsv" &
     done
 done

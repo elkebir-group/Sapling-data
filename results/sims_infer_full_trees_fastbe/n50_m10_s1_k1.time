@@ -1,72 +1,72 @@
-[2025-12-03 11:10:38.599] [fastbe] [info] Performing beam search to find tree(s)...
-[2025-12-03 11:10:38.600] [fastbe] [info] Adding clone 0 (1/50) to the partially constructed trees
-[2025-12-03 11:10:38.600] [fastbe] [info] Adding clone 17 (2/50) to the partially constructed trees
-[2025-12-03 11:10:38.600] [fastbe] [info] Adding clone 8 (3/50) to the partially constructed trees
-[2025-12-03 11:10:38.600] [fastbe] [info] Adding clone 30 (4/50) to the partially constructed trees
-[2025-12-03 11:10:38.601] [fastbe] [info] Adding clone 7 (5/50) to the partially constructed trees
-[2025-12-03 11:10:38.601] [fastbe] [info] Adding clone 42 (6/50) to the partially constructed trees
-[2025-12-03 11:10:38.601] [fastbe] [info] Adding clone 9 (7/50) to the partially constructed trees
-[2025-12-03 11:10:38.602] [fastbe] [info] Adding clone 41 (8/50) to the partially constructed trees
-[2025-12-03 11:10:38.603] [fastbe] [info] Adding clone 1 (9/50) to the partially constructed trees
-[2025-12-03 11:10:38.603] [fastbe] [info] Adding clone 23 (10/50) to the partially constructed trees
-[2025-12-03 11:10:38.604] [fastbe] [info] Adding clone 11 (11/50) to the partially constructed trees
-[2025-12-03 11:10:38.605] [fastbe] [info] Adding clone 4 (12/50) to the partially constructed trees
-[2025-12-03 11:10:38.607] [fastbe] [info] Adding clone 20 (13/50) to the partially constructed trees
-[2025-12-03 11:10:38.608] [fastbe] [info] Adding clone 13 (14/50) to the partially constructed trees
-[2025-12-03 11:10:38.610] [fastbe] [info] Adding clone 22 (15/50) to the partially constructed trees
-[2025-12-03 11:10:38.612] [fastbe] [info] Adding clone 14 (16/50) to the partially constructed trees
-[2025-12-03 11:10:38.613] [fastbe] [info] Adding clone 29 (17/50) to the partially constructed trees
-[2025-12-03 11:10:38.614] [fastbe] [info] Adding clone 12 (18/50) to the partially constructed trees
-[2025-12-03 11:10:38.615] [fastbe] [info] Adding clone 18 (19/50) to the partially constructed trees
-[2025-12-03 11:10:38.616] [fastbe] [info] Adding clone 15 (20/50) to the partially constructed trees
-[2025-12-03 11:10:38.617] [fastbe] [info] Adding clone 16 (21/50) to the partially constructed trees
-[2025-12-03 11:10:38.618] [fastbe] [info] Adding clone 24 (22/50) to the partially constructed trees
-[2025-12-03 11:10:38.620] [fastbe] [info] Adding clone 37 (23/50) to the partially constructed trees
-[2025-12-03 11:10:38.621] [fastbe] [info] Adding clone 32 (24/50) to the partially constructed trees
-[2025-12-03 11:10:38.622] [fastbe] [info] Adding clone 27 (25/50) to the partially constructed trees
-[2025-12-03 11:10:38.624] [fastbe] [info] Adding clone 25 (26/50) to the partially constructed trees
-[2025-12-03 11:10:38.625] [fastbe] [info] Adding clone 44 (27/50) to the partially constructed trees
-[2025-12-03 11:10:38.627] [fastbe] [info] Adding clone 3 (28/50) to the partially constructed trees
-[2025-12-03 11:10:38.629] [fastbe] [info] Adding clone 21 (29/50) to the partially constructed trees
-[2025-12-03 11:10:38.631] [fastbe] [info] Adding clone 28 (30/50) to the partially constructed trees
-[2025-12-03 11:10:38.632] [fastbe] [info] Adding clone 33 (31/50) to the partially constructed trees
-[2025-12-03 11:10:38.635] [fastbe] [info] Adding clone 43 (32/50) to the partially constructed trees
-[2025-12-03 11:10:38.637] [fastbe] [info] Adding clone 6 (33/50) to the partially constructed trees
-[2025-12-03 11:10:38.639] [fastbe] [info] Adding clone 39 (34/50) to the partially constructed trees
-[2025-12-03 11:10:38.641] [fastbe] [info] Adding clone 5 (35/50) to the partially constructed trees
-[2025-12-03 11:10:38.644] [fastbe] [info] Adding clone 19 (36/50) to the partially constructed trees
-[2025-12-03 11:10:38.646] [fastbe] [info] Adding clone 35 (37/50) to the partially constructed trees
-[2025-12-03 11:10:38.649] [fastbe] [info] Adding clone 40 (38/50) to the partially constructed trees
-[2025-12-03 11:10:38.651] [fastbe] [info] Adding clone 38 (39/50) to the partially constructed trees
-[2025-12-03 11:10:38.654] [fastbe] [info] Adding clone 36 (40/50) to the partially constructed trees
-[2025-12-03 11:10:38.656] [fastbe] [info] Adding clone 45 (41/50) to the partially constructed trees
-[2025-12-03 11:10:38.659] [fastbe] [info] Adding clone 31 (42/50) to the partially constructed trees
-[2025-12-03 11:10:38.662] [fastbe] [info] Adding clone 48 (43/50) to the partially constructed trees
-[2025-12-03 11:10:38.666] [fastbe] [info] Adding clone 2 (44/50) to the partially constructed trees
-[2025-12-03 11:10:38.669] [fastbe] [info] Adding clone 46 (45/50) to the partially constructed trees
-[2025-12-03 11:10:38.673] [fastbe] [info] Adding clone 49 (46/50) to the partially constructed trees
-[2025-12-03 11:10:38.676] [fastbe] [info] Adding clone 10 (47/50) to the partially constructed trees
-[2025-12-03 11:10:38.679] [fastbe] [info] Adding clone 26 (48/50) to the partially constructed trees
-[2025-12-03 11:10:38.683] [fastbe] [info] Adding clone 34 (49/50) to the partially constructed trees
-[2025-12-03 11:10:38.686] [fastbe] [info] Adding clone 47 (50/50) to the partially constructed trees
-[2025-12-03 11:10:38.689] [fastbe] [info] Best tree objective is 2.145548
-[2025-12-03 11:10:38.689] [fastbe] [info] Worst tree objective is 2.145548
-[2025-12-03 11:10:38.689] [fastbe] [info] Objective value: 2.145548
+[2025-12-04 10:11:12.461] [fastbe] [info] Performing beam search to find tree(s)...
+[2025-12-04 10:11:12.462] [fastbe] [info] Adding clone 0 (1/50) to the partially constructed trees
+[2025-12-04 10:11:12.462] [fastbe] [info] Adding clone 17 (2/50) to the partially constructed trees
+[2025-12-04 10:11:12.462] [fastbe] [info] Adding clone 8 (3/50) to the partially constructed trees
+[2025-12-04 10:11:12.463] [fastbe] [info] Adding clone 30 (4/50) to the partially constructed trees
+[2025-12-04 10:11:12.463] [fastbe] [info] Adding clone 7 (5/50) to the partially constructed trees
+[2025-12-04 10:11:12.463] [fastbe] [info] Adding clone 42 (6/50) to the partially constructed trees
+[2025-12-04 10:11:12.464] [fastbe] [info] Adding clone 9 (7/50) to the partially constructed trees
+[2025-12-04 10:11:12.464] [fastbe] [info] Adding clone 41 (8/50) to the partially constructed trees
+[2025-12-04 10:11:12.465] [fastbe] [info] Adding clone 1 (9/50) to the partially constructed trees
+[2025-12-04 10:11:12.466] [fastbe] [info] Adding clone 23 (10/50) to the partially constructed trees
+[2025-12-04 10:11:12.467] [fastbe] [info] Adding clone 11 (11/50) to the partially constructed trees
+[2025-12-04 10:11:12.468] [fastbe] [info] Adding clone 4 (12/50) to the partially constructed trees
+[2025-12-04 10:11:12.470] [fastbe] [info] Adding clone 20 (13/50) to the partially constructed trees
+[2025-12-04 10:11:12.471] [fastbe] [info] Adding clone 13 (14/50) to the partially constructed trees
+[2025-12-04 10:11:12.472] [fastbe] [info] Adding clone 22 (15/50) to the partially constructed trees
+[2025-12-04 10:11:12.473] [fastbe] [info] Adding clone 14 (16/50) to the partially constructed trees
+[2025-12-04 10:11:12.474] [fastbe] [info] Adding clone 29 (17/50) to the partially constructed trees
+[2025-12-04 10:11:12.475] [fastbe] [info] Adding clone 12 (18/50) to the partially constructed trees
+[2025-12-04 10:11:12.476] [fastbe] [info] Adding clone 18 (19/50) to the partially constructed trees
+[2025-12-04 10:11:12.478] [fastbe] [info] Adding clone 15 (20/50) to the partially constructed trees
+[2025-12-04 10:11:12.479] [fastbe] [info] Adding clone 16 (21/50) to the partially constructed trees
+[2025-12-04 10:11:12.480] [fastbe] [info] Adding clone 24 (22/50) to the partially constructed trees
+[2025-12-04 10:11:12.481] [fastbe] [info] Adding clone 37 (23/50) to the partially constructed trees
+[2025-12-04 10:11:12.483] [fastbe] [info] Adding clone 32 (24/50) to the partially constructed trees
+[2025-12-04 10:11:12.484] [fastbe] [info] Adding clone 27 (25/50) to the partially constructed trees
+[2025-12-04 10:11:12.485] [fastbe] [info] Adding clone 25 (26/50) to the partially constructed trees
+[2025-12-04 10:11:12.487] [fastbe] [info] Adding clone 44 (27/50) to the partially constructed trees
+[2025-12-04 10:11:12.489] [fastbe] [info] Adding clone 3 (28/50) to the partially constructed trees
+[2025-12-04 10:11:12.491] [fastbe] [info] Adding clone 21 (29/50) to the partially constructed trees
+[2025-12-04 10:11:12.492] [fastbe] [info] Adding clone 28 (30/50) to the partially constructed trees
+[2025-12-04 10:11:12.494] [fastbe] [info] Adding clone 33 (31/50) to the partially constructed trees
+[2025-12-04 10:11:12.496] [fastbe] [info] Adding clone 43 (32/50) to the partially constructed trees
+[2025-12-04 10:11:12.498] [fastbe] [info] Adding clone 6 (33/50) to the partially constructed trees
+[2025-12-04 10:11:12.500] [fastbe] [info] Adding clone 39 (34/50) to the partially constructed trees
+[2025-12-04 10:11:12.502] [fastbe] [info] Adding clone 5 (35/50) to the partially constructed trees
+[2025-12-04 10:11:12.504] [fastbe] [info] Adding clone 19 (36/50) to the partially constructed trees
+[2025-12-04 10:11:12.506] [fastbe] [info] Adding clone 35 (37/50) to the partially constructed trees
+[2025-12-04 10:11:12.508] [fastbe] [info] Adding clone 40 (38/50) to the partially constructed trees
+[2025-12-04 10:11:12.511] [fastbe] [info] Adding clone 38 (39/50) to the partially constructed trees
+[2025-12-04 10:11:12.513] [fastbe] [info] Adding clone 36 (40/50) to the partially constructed trees
+[2025-12-04 10:11:12.515] [fastbe] [info] Adding clone 45 (41/50) to the partially constructed trees
+[2025-12-04 10:11:12.518] [fastbe] [info] Adding clone 31 (42/50) to the partially constructed trees
+[2025-12-04 10:11:12.521] [fastbe] [info] Adding clone 48 (43/50) to the partially constructed trees
+[2025-12-04 10:11:12.524] [fastbe] [info] Adding clone 2 (44/50) to the partially constructed trees
+[2025-12-04 10:11:12.527] [fastbe] [info] Adding clone 46 (45/50) to the partially constructed trees
+[2025-12-04 10:11:12.530] [fastbe] [info] Adding clone 49 (46/50) to the partially constructed trees
+[2025-12-04 10:11:12.534] [fastbe] [info] Adding clone 10 (47/50) to the partially constructed trees
+[2025-12-04 10:11:12.537] [fastbe] [info] Adding clone 26 (48/50) to the partially constructed trees
+[2025-12-04 10:11:12.540] [fastbe] [info] Adding clone 34 (49/50) to the partially constructed trees
+[2025-12-04 10:11:12.544] [fastbe] [info] Adding clone 47 (50/50) to the partially constructed trees
+[2025-12-04 10:11:12.547] [fastbe] [info] Best tree objective is 2.145548
+[2025-12-04 10:11:12.547] [fastbe] [info] Worst tree objective is 2.145548
+[2025-12-04 10:11:12.548] [fastbe] [info] Objective value of clone tree 0: 2.145548
 	Command being timed: "fastbe search data/sims/n50_m10_s1_frequency_matrix.txt -o results/sims_infer_full_trees_fastbe/n50_m10_s1_k1 -b 1"
-	User time (seconds): 0.56
+	User time (seconds): 0.51
 	System time (seconds): 0.01
-	Percent of CPU this job got: 594%
+	Percent of CPU this job got: 570%
 	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.09
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 4224
+	Maximum resident set size (kbytes): 3920
 	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 2
-	Minor (reclaiming a frame) page faults: 1440
-	Voluntary context switches: 2
-	Involuntary context switches: 1199
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 1421
+	Voluntary context switches: 1
+	Involuntary context switches: 904
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 0

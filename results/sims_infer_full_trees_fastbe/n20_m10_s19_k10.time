@@ -1,42 +1,51 @@
-[2025-12-03 11:10:22.913] [fastbe] [info] Performing beam search to find tree(s)...
-[2025-12-03 11:10:22.914] [fastbe] [info] Adding clone 0 (1/20) to the partially constructed trees
-[2025-12-03 11:10:22.914] [fastbe] [info] Adding clone 14 (2/20) to the partially constructed trees
-[2025-12-03 11:10:22.914] [fastbe] [info] Adding clone 15 (3/20) to the partially constructed trees
-[2025-12-03 11:10:22.914] [fastbe] [info] Adding clone 7 (4/20) to the partially constructed trees
-[2025-12-03 11:10:22.915] [fastbe] [info] Adding clone 12 (5/20) to the partially constructed trees
-[2025-12-03 11:10:22.917] [fastbe] [info] Adding clone 10 (6/20) to the partially constructed trees
-[2025-12-03 11:10:22.919] [fastbe] [info] Adding clone 1 (7/20) to the partially constructed trees
-[2025-12-03 11:10:22.922] [fastbe] [info] Adding clone 5 (8/20) to the partially constructed trees
-[2025-12-03 11:10:22.926] [fastbe] [info] Adding clone 2 (9/20) to the partially constructed trees
-[2025-12-03 11:10:22.931] [fastbe] [info] Adding clone 9 (10/20) to the partially constructed trees
-[2025-12-03 11:10:22.939] [fastbe] [info] Adding clone 16 (11/20) to the partially constructed trees
-[2025-12-03 11:10:22.948] [fastbe] [info] Adding clone 11 (12/20) to the partially constructed trees
-[2025-12-03 11:10:22.961] [fastbe] [info] Adding clone 18 (13/20) to the partially constructed trees
-[2025-12-03 11:10:22.976] [fastbe] [info] Adding clone 17 (14/20) to the partially constructed trees
-[2025-12-03 11:10:22.985] [fastbe] [info] Adding clone 19 (15/20) to the partially constructed trees
-[2025-12-03 11:10:22.991] [fastbe] [info] Adding clone 13 (16/20) to the partially constructed trees
-[2025-12-03 11:10:22.998] [fastbe] [info] Adding clone 8 (17/20) to the partially constructed trees
-[2025-12-03 11:10:23.006] [fastbe] [info] Adding clone 4 (18/20) to the partially constructed trees
-[2025-12-03 11:10:23.015] [fastbe] [info] Adding clone 6 (19/20) to the partially constructed trees
-[2025-12-03 11:10:23.024] [fastbe] [info] Adding clone 3 (20/20) to the partially constructed trees
-[2025-12-03 11:10:23.034] [fastbe] [info] Best tree objective is 1.4453471
-[2025-12-03 11:10:23.034] [fastbe] [info] Worst tree objective is 1.467724
-[2025-12-03 11:10:23.034] [fastbe] [info] Objective value: 1.4453471
+[2025-12-04 10:10:55.897] [fastbe] [info] Performing beam search to find tree(s)...
+[2025-12-04 10:10:55.898] [fastbe] [info] Adding clone 0 (1/20) to the partially constructed trees
+[2025-12-04 10:10:55.898] [fastbe] [info] Adding clone 14 (2/20) to the partially constructed trees
+[2025-12-04 10:10:55.898] [fastbe] [info] Adding clone 15 (3/20) to the partially constructed trees
+[2025-12-04 10:10:55.898] [fastbe] [info] Adding clone 7 (4/20) to the partially constructed trees
+[2025-12-04 10:10:55.899] [fastbe] [info] Adding clone 12 (5/20) to the partially constructed trees
+[2025-12-04 10:10:55.901] [fastbe] [info] Adding clone 10 (6/20) to the partially constructed trees
+[2025-12-04 10:10:55.904] [fastbe] [info] Adding clone 1 (7/20) to the partially constructed trees
+[2025-12-04 10:10:55.908] [fastbe] [info] Adding clone 5 (8/20) to the partially constructed trees
+[2025-12-04 10:10:55.912] [fastbe] [info] Adding clone 2 (9/20) to the partially constructed trees
+[2025-12-04 10:10:55.919] [fastbe] [info] Adding clone 9 (10/20) to the partially constructed trees
+[2025-12-04 10:10:55.928] [fastbe] [info] Adding clone 16 (11/20) to the partially constructed trees
+[2025-12-04 10:10:55.939] [fastbe] [info] Adding clone 11 (12/20) to the partially constructed trees
+[2025-12-04 10:10:55.952] [fastbe] [info] Adding clone 18 (13/20) to the partially constructed trees
+[2025-12-04 10:10:55.958] [fastbe] [info] Adding clone 17 (14/20) to the partially constructed trees
+[2025-12-04 10:10:55.965] [fastbe] [info] Adding clone 19 (15/20) to the partially constructed trees
+[2025-12-04 10:10:55.972] [fastbe] [info] Adding clone 13 (16/20) to the partially constructed trees
+[2025-12-04 10:10:55.981] [fastbe] [info] Adding clone 8 (17/20) to the partially constructed trees
+[2025-12-04 10:10:55.990] [fastbe] [info] Adding clone 4 (18/20) to the partially constructed trees
+[2025-12-04 10:10:56.001] [fastbe] [info] Adding clone 6 (19/20) to the partially constructed trees
+[2025-12-04 10:10:56.011] [fastbe] [info] Adding clone 3 (20/20) to the partially constructed trees
+[2025-12-04 10:10:56.024] [fastbe] [info] Best tree objective is 1.4453471
+[2025-12-04 10:10:56.024] [fastbe] [info] Worst tree objective is 1.467724
+[2025-12-04 10:10:56.024] [fastbe] [info] Objective value of clone tree 0: 1.4453471
+[2025-12-04 10:10:56.024] [fastbe] [info] Objective value of clone tree 1: 1.4491102
+[2025-12-04 10:10:56.024] [fastbe] [info] Objective value of clone tree 2: 1.45642
+[2025-12-04 10:10:56.024] [fastbe] [info] Objective value of clone tree 3: 1.4598219
+[2025-12-04 10:10:56.024] [fastbe] [info] Objective value of clone tree 4: 1.460183
+[2025-12-04 10:10:56.024] [fastbe] [info] Objective value of clone tree 5: 1.4621171
+[2025-12-04 10:10:56.024] [fastbe] [info] Objective value of clone tree 6: 1.463585
+[2025-12-04 10:10:56.024] [fastbe] [info] Objective value of clone tree 7: 1.463961
+[2025-12-04 10:10:56.024] [fastbe] [info] Objective value of clone tree 8: 1.4652861
+[2025-12-04 10:10:56.024] [fastbe] [info] Objective value of clone tree 9: 1.467724
 	Command being timed: "fastbe search data/sims/n20_m10_s19_frequency_matrix.txt -o results/sims_infer_full_trees_fastbe/n20_m10_s19_k10 -b 10"
-	User time (seconds): 0.80
+	User time (seconds): 0.81
 	System time (seconds): 0.03
-	Percent of CPU this job got: 671%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.12
+	Percent of CPU this job got: 631%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.13
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 3376
+	Maximum resident set size (kbytes): 3440
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 1
-	Minor (reclaiming a frame) page faults: 3675
+	Minor (reclaiming a frame) page faults: 3690
 	Voluntary context switches: 0
-	Involuntary context switches: 2528
+	Involuntary context switches: 2640
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 0

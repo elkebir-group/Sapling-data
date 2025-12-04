@@ -1,0 +1,900 @@
+# clone tree 0 objective: 0.07948
+0 2 
+2 6 7 1 4 
+4 3 
+3 5 
+1 
+5 
+7 
+6 
+# clone tree 1 objective: 0.07948
+0 2 
+2 7 1 4 
+4 3 
+3 5 
+1 6 
+5 
+7 
+6 
+# clone tree 2 objective: 0.07948
+0 2 
+2 7 3 4 
+4 6 5 
+3 1 
+1 
+5 
+7 
+6 
+# clone tree 3 objective: 0.07948
+0 2 
+2 7 3 4 
+4 5 
+3 1 
+1 6 
+5 
+7 
+6 
+# clone tree 4 objective: 0.07948
+0 2 
+2 7 1 4 
+4 3 
+3 5 
+1 
+5 6 
+7 
+6 
+# clone tree 5 objective: 0.07948
+0 2 
+2 7 3 4 
+4 6 1 
+3 5 
+1 
+5 
+7 
+6 
+# clone tree 6 objective: 0.07948
+0 2 
+2 7 3 4 
+4 5 
+3 1 
+1 
+5 6 
+7 
+6 
+# clone tree 7 objective: 0.07948
+0 2 
+2 7 3 4 
+4 1 
+3 5 
+1 
+5 6 
+7 
+6 
+# clone tree 8 objective: 0.07948
+0 2 
+2 7 3 4 
+4 1 
+3 5 
+1 6 
+5 
+7 
+6 
+# clone tree 9 objective: 0.07948
+0 2 
+2 7 5 4 
+4 3 
+3 1 
+1 
+5 6 
+7 
+6 
+# clone tree 10 objective: 0.07948
+0 2 
+2 7 5 4 
+4 3 
+3 1 
+1 6 
+5 
+7 
+6 
+# clone tree 11 objective: 0.08218
+0 2 
+2 7 3 4 
+4 5 
+3 6 1 
+1 
+5 
+7 
+6 
+# clone tree 12 objective: 0.08218
+0 2 
+2 7 5 4 
+4 3 
+3 6 1 
+1 
+5 
+7 
+6 
+# clone tree 13 objective: 0.083957
+0 2 
+2 6 7 5 4 
+4 3 
+3 1 
+1 
+5 
+7 
+6 
+# clone tree 14 objective: 0.088577
+0 2 
+2 5 1 4 
+4 3 
+3 7 
+1 
+5 6 
+7 
+6 
+# clone tree 15 objective: 0.088577
+0 2 
+2 5 1 4 
+4 3 
+3 7 
+1 6 
+5 
+7 
+6 
+# clone tree 16 objective: 0.089091
+0 2 
+2 7 5 4 
+4 6 3 
+3 1 
+1 
+5 
+7 
+6 
+# clone tree 17 objective: 0.089091
+0 2 
+2 7 1 4 
+4 6 3 
+3 5 
+1 
+5 
+7 
+6 
+# clone tree 18 objective: 0.089662
+0 2 
+2 3 4 
+4 7 
+3 1 
+1 5 
+5 6 
+7 
+6 
+# clone tree 19 objective: 0.089662
+0 2 
+2 7 4 
+4 3 
+3 1 
+1 5 
+5 6 
+7 
+6 
+# clone tree 20 objective: 0.089662
+0 2 
+2 3 4 
+4 6 7 
+3 1 
+1 5 
+5 
+7 
+6 
+# clone tree 21 objective: 0.089662
+0 2 
+2 6 7 1 4 
+4 3 
+3 
+1 5 
+5 
+7 
+6 
+# clone tree 22 objective: 0.089662
+0 2 
+2 6 7 4 
+4 3 
+3 1 
+1 5 
+5 
+7 
+6 
+# clone tree 23 objective: 0.089662
+0 2 
+2 7 3 4 
+4 
+3 1 
+1 5 
+5 6 
+7 
+6 
+# clone tree 24 objective: 0.089662
+0 2 
+2 7 3 4 
+4 1 
+3 6 
+1 5 
+5 
+7 
+6 
+# clone tree 25 objective: 0.089662
+0 2 
+2 7 1 4 
+4 3 
+3 
+1 5 
+5 6 
+7 
+6 
+# clone tree 26 objective: 0.089662
+0 2 
+2 7 3 4 
+4 1 
+3 
+1 5 
+5 6 
+7 
+6 
+# clone tree 27 objective: 0.089662
+0 2 
+2 7 3 4 
+4 6 
+3 1 
+1 5 
+5 
+7 
+6 
+# clone tree 28 objective: 0.089662
+0 2 
+2 7 3 4 
+4 6 1 
+3 
+1 5 
+5 
+7 
+6 
+# clone tree 29 objective: 0.089662
+0 2 
+2 7 1 4 
+4 3 
+3 6 
+1 5 
+5 
+7 
+6 
+# clone tree 30 objective: 0.092362
+0 2 
+2 7 1 4 
+4 3 
+3 6 5 
+1 
+5 
+7 
+6 
+# clone tree 31 objective: 0.092362
+0 2 
+2 7 4 
+4 3 
+3 6 1 
+1 5 
+5 
+7 
+6 
+# clone tree 32 objective: 0.092362
+0 2 
+2 3 4 
+4 7 
+3 6 1 
+1 5 
+5 
+7 
+6 
+# clone tree 33 objective: 0.092362
+0 2 
+2 7 3 4 
+4 1 
+3 6 5 
+1 
+5 
+7 
+6 
+# clone tree 34 objective: 0.092362
+0 2 
+2 7 3 4 
+4 
+3 6 1 
+1 5 
+5 
+7 
+6 
+# clone tree 35 objective: 0.098167
+0 2 
+2 5 1 4 
+4 3 
+3 
+1 6 
+5 7 
+7 
+6 
+# clone tree 36 objective: 0.098167
+0 2 
+2 3 4 
+4 1 
+3 5 
+1 6 
+5 7 
+7 
+6 
+# clone tree 37 objective: 0.098167
+0 2 
+2 3 4 
+4 6 1 
+3 5 
+1 
+5 7 
+7 
+6 
+# clone tree 38 objective: 0.098167
+0 2 
+2 1 4 
+4 3 
+3 5 
+1 6 
+5 7 
+7 
+6 
+# clone tree 39 objective: 0.098167
+0 2 
+2 5 4 
+4 3 
+3 1 
+1 6 
+5 7 
+7 
+6 
+# clone tree 40 objective: 0.098167
+0 2 
+2 6 5 4 
+4 3 
+3 1 
+1 
+5 7 
+7 
+6 
+# clone tree 41 objective: 0.098167
+0 2 
+2 6 1 4 
+4 3 
+3 5 
+1 
+5 7 
+7 
+6 
+# clone tree 42 objective: 0.098167
+0 2 
+2 3 4 
+4 6 5 
+3 1 
+1 
+5 7 
+7 
+6 
+# clone tree 43 objective: 0.098167
+0 2 
+2 3 4 
+4 5 
+3 1 
+1 6 
+5 7 
+7 
+6 
+# clone tree 44 objective: 0.098167
+0 2 
+2 5 1 4 
+4 3 
+3 6 
+1 
+5 7 
+7 
+6 
+# clone tree 45 objective: 0.098188
+0 2 
+2 5 1 4 
+4 6 3 
+3 7 
+1 
+5 
+7 
+6 
+# clone tree 46 objective: 0.098759
+0 2 
+2 3 4 
+4 6 1 
+3 7 
+1 5 
+5 
+7 
+6 
+# clone tree 47 objective: 0.098759
+0 2 
+2 3 4 
+4 1 
+3 7 
+1 5 
+5 6 
+7 
+6 
+# clone tree 48 objective: 0.098759
+0 2 
+2 6 1 4 
+4 3 
+3 7 
+1 5 
+5 
+7 
+6 
+# clone tree 49 objective: 0.098759
+0 2 
+2 1 4 
+4 3 
+3 7 
+1 5 
+5 6 
+7 
+6 
+# clone tree 50 objective: 0.099273
+0 2 
+2 7 1 4 
+4 6 3 
+3 
+1 5 
+5 
+7 
+6 
+# clone tree 51 objective: 0.099273
+0 2 
+2 7 4 
+4 6 3 
+3 1 
+1 5 
+5 
+7 
+6 
+# clone tree 52 objective: 0.100444
+0 2 
+2 7 3 4 
+4 5 1 
+3 
+1 6 
+5 
+7 
+6 
+# clone tree 53 objective: 0.100444
+0 2 
+2 7 3 4 
+4 5 1 
+3 6 
+1 
+5 
+7 
+6 
+# clone tree 54 objective: 0.100444
+0 2 
+2 7 3 4 
+4 5 1 
+3 
+1 
+5 6 
+7 
+6 
+# clone tree 55 objective: 0.100867
+0 2 
+2 5 4 
+4 3 
+3 6 1 
+1 
+5 7 
+7 
+6 
+# clone tree 56 objective: 0.100867
+0 2 
+2 3 4 
+4 5 
+3 6 1 
+1 
+5 7 
+7 
+6 
+# clone tree 57 objective: 0.101147
+0 2 
+2 7 3 4 
+4 6 5 
+3 
+1 
+5 1 
+7 
+6 
+# clone tree 58 objective: 0.101147
+0 2 
+2 7 3 4 
+4 5 
+3 6 
+1 
+5 1 
+7 
+6 
+# clone tree 59 objective: 0.101147
+0 2 
+2 7 3 4 
+4 5 
+3 
+1 6 
+5 1 
+7 
+6 
+# clone tree 60 objective: 0.101147
+0 2 
+2 7 5 4 
+4 3 
+3 
+1 6 
+5 1 
+7 
+6 
+# clone tree 61 objective: 0.101147
+0 2 
+2 7 5 4 
+4 3 
+3 6 
+1 
+5 1 
+7 
+6 
+# clone tree 62 objective: 0.101147
+0 2 
+2 7 4 
+4 3 
+3 5 
+1 6 
+5 1 
+7 
+6 
+# clone tree 63 objective: 0.101147
+0 2 
+2 6 7 4 
+4 3 
+3 5 
+1 
+5 1 
+7 
+6 
+# clone tree 64 objective: 0.101147
+0 2 
+2 7 3 4 
+4 6 
+3 5 
+1 
+5 1 
+7 
+6 
+# clone tree 65 objective: 0.101147
+0 2 
+2 3 4 
+4 7 
+3 5 
+1 6 
+5 1 
+7 
+6 
+# clone tree 66 objective: 0.101147
+0 2 
+2 3 4 
+4 6 7 
+3 5 
+1 
+5 1 
+7 
+6 
+# clone tree 67 objective: 0.101147
+0 2 
+2 7 3 4 
+4 
+3 5 
+1 6 
+5 1 
+7 
+6 
+# clone tree 68 objective: 0.101952
+0 6 2 
+2 7 1 4 
+4 3 
+3 5 
+1 
+5 
+7 
+6 
+# clone tree 69 objective: 0.101952
+0 6 2 
+2 7 3 4 
+4 5 
+3 1 
+1 
+5 
+7 
+6 
+# clone tree 70 objective: 0.101952
+0 6 2 
+2 7 3 4 
+4 1 
+3 5 
+1 
+5 
+7 
+6 
+# clone tree 71 objective: 0.101952
+0 6 2 
+2 7 5 4 
+4 3 
+3 1 
+1 
+5 
+7 
+6 
+# clone tree 72 objective: 0.105624
+0 2 
+2 6 7 5 4 
+4 3 
+3 
+1 
+5 1 
+7 
+6 
+# clone tree 73 objective: 0.107778
+0 2 
+2 5 4 
+4 6 3 
+3 1 
+1 
+5 7 
+7 
+6 
+# clone tree 74 objective: 0.107778
+0 2 
+2 1 4 
+4 6 3 
+3 5 
+1 
+5 7 
+7 
+6 
+# clone tree 75 objective: 0.107778
+0 2 
+2 5 1 4 
+4 6 3 
+3 
+1 
+5 7 
+7 
+6 
+# clone tree 76 objective: 0.108349
+0 2 
+2 3 4 
+4 6 1 
+3 
+1 5 
+5 7 
+7 
+6 
+# clone tree 77 objective: 0.108349
+0 2 
+2 6 4 
+4 3 
+3 1 
+1 5 
+5 7 
+7 
+6 
+# clone tree 78 objective: 0.108349
+0 2 
+2 3 4 
+4 1 
+3 5 
+1 7 
+5 6 
+7 
+6 
+# clone tree 79 objective: 0.108349
+0 2 
+2 3 4 
+4 1 
+3 6 
+1 5 
+5 7 
+7 
+6 
+# clone tree 80 objective: 0.108349
+0 2 
+2 6 1 4 
+4 3 
+3 
+1 5 
+5 7 
+7 
+6 
+# clone tree 81 objective: 0.108349
+0 2 
+2 5 1 4 
+4 3 
+3 6 
+1 7 
+5 
+7 
+6 
+# clone tree 82 objective: 0.108349
+0 2 
+2 3 4 
+4 5 
+3 1 
+1 7 
+5 6 
+7 
+6 
+# clone tree 83 objective: 0.108349
+0 2 
+2 6 5 4 
+4 3 
+3 1 
+1 7 
+5 
+7 
+6 
+# clone tree 84 objective: 0.108349
+0 2 
+2 5 4 
+4 3 
+3 1 
+1 7 
+5 6 
+7 
+6 
+# clone tree 85 objective: 0.108349
+0 2 
+2 3 4 
+4 6 
+3 1 
+1 5 
+5 7 
+7 
+6 
+# clone tree 86 objective: 0.108349
+0 2 
+2 1 4 
+4 3 
+3 6 
+1 5 
+5 7 
+7 
+6 
+# clone tree 87 objective: 0.108349
+0 2 
+2 3 4 
+4 6 1 
+3 5 
+1 7 
+5 
+7 
+6 
+# clone tree 88 objective: 0.108349
+0 2 
+2 5 1 4 
+4 3 
+3 
+1 7 
+5 6 
+7 
+6 
+# clone tree 89 objective: 0.108349
+0 2 
+2 3 4 
+4 6 5 
+3 1 
+1 7 
+5 
+7 
+6 
+# clone tree 90 objective: 0.108349
+0 2 
+2 1 4 
+4 3 
+3 5 
+1 7 
+5 6 
+7 
+6 
+# clone tree 91 objective: 0.108349
+0 2 
+2 6 1 4 
+4 3 
+3 5 
+1 7 
+5 
+7 
+6 
+# clone tree 92 objective: 0.10837
+0 2 
+2 1 4 
+4 6 3 
+3 7 
+1 5 
+5 
+7 
+6 
+# clone tree 93 objective: 0.109541
+0 2 
+2 3 4 
+4 5 1 
+3 7 
+1 
+5 6 
+7 
+6 
+# clone tree 94 objective: 0.109541
+0 2 
+2 3 4 
+4 5 1 
+3 7 
+1 6 
+5 
+7 
+6 
+# clone tree 95 objective: 0.110244
+0 2 
+2 3 4 
+4 5 
+3 7 
+1 6 
+5 1 
+7 
+6 
+# clone tree 96 objective: 0.110244
+0 2 
+2 5 4 
+4 3 
+3 7 
+1 6 
+5 1 
+7 
+6 
+# clone tree 97 objective: 0.110244
+0 2 
+2 3 4 
+4 6 5 
+3 7 
+1 
+5 1 
+7 
+6 
+# clone tree 98 objective: 0.110244
+0 2 
+2 6 5 4 
+4 3 
+3 7 
+1 
+5 1 
+7 
+6 
+# clone tree 99 objective: 0.110758
+0 2 
+2 7 4 
+4 6 3 
+3 5 
+1 
+5 1 
+7 
+6 
