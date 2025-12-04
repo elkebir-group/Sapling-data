@@ -13,11 +13,11 @@ fastppm-data/
 │   ├── sims_infer_full_trees_orchard/      # Full tree benchmarking: Orchard results
 │   ├── sims_infer_full_trees_fastbe/       # Full tree benchmarking: fastBE results
 │   ├── sims_infer_full_trees_fastppm_small_expand/ # Full tree benchmarking: Sapling (Small Expand heuristic)
-│   ├── sims_tau_fastppm_small_expand/      # Backbone Inference: fastPPM + Small Expand
-│   ├── sims_tau_fastppm_big_expand/        # Backbone Inference: fastppm + Big Expand
-│   ├── sims_tau_cvxopt_small_expand/       # Backbone Inference: CVXOPT + Small Expand
-│   ├── sims_tau_n8_sapling/                # Backbone Inference: Sapling for n=8 simulations
-│   ├── sims_tau_n8_ground_truth/           # Backbone Inference: Ground truth for n=8 simulations
+│   ├── sims_tau_fastppm_small_expand/      # Backbone inference: fastPPM + Small Expand
+│   ├── sims_tau_fastppm_big_expand/        # Backbone inference: fastppm + Big Expand
+│   ├── sims_tau_cvxopt_small_expand/       # Backbone inference: CVXOPT + Small Expand
+│   ├── sims_tau_n8_sapling/                # Backbone inference: Sapling for n=8 simulations
+│   ├── sims_tau_n8_ground_truth/           # Backbone inference: Ground truth for n=8 simulations
 │   └── real_TRACERx_sapling/               # Sapling results on TRACERx dataset
 └── scripts/                                # Analysis scripts
 ```
